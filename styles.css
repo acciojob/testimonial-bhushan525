@@ -7,7 +7,7 @@ section{
 	background-color:white;
 	padding:5px;
 }
-p+i{
-	display:flex;
-	justify-content:flex-end;
+.right{
+	font-style:italic;
+	text-align:right
 }
